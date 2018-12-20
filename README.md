@@ -1,3 +1,2 @@
-# kubernetes-updating
-This handbook is from many excellent k8s preachers and leaners, i just conclude the knowledge according to my needs and enterprise production
-
+<!-- TOC -->autoauto- [01-00.kubernetes framwork.md](#01-00kubernetes-framworkmd)autoauto<!-- /TOC -->
+# 01-00.kubernetes framwork.md
