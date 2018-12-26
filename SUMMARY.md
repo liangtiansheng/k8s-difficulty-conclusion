@@ -33,5 +33,5 @@
     - [kubernetes-job](06-05.kubernetes-job.md)
     - [kubernetes-CronJob](06-06.kubernetes-CronJob.md)
     - [kubernetes-Horizontal-Pod-Autoscaling](06-07.kubernetes-Horizontal-Pod-Autoscaling.md)
-    - [kubernetes-define-HPA](06-07-01.kubernetes-define-HPA.md)
+    - [kubernetes-define-HPA](06-08.kubernetes-define-HPA.md)
 
