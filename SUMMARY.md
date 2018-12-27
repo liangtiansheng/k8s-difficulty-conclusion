@@ -34,4 +34,6 @@
     - [kubernetes-CronJob](06-06.kubernetes-CronJob.md)
     - [kubernetes-Horizontal-Pod-Autoscaling](06-07.kubernetes-Horizontal-Pod-Autoscaling.md)
     - [kubernetes-define-HPA](06-08.kubernetes-define-HPA.md)
+    - [kubernetes-Admission-Controller](06-09.kubernetes-Admission-Controller.md)
+    
 
