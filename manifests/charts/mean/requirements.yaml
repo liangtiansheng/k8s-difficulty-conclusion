@@ -1,4 +1,0 @@
-dependencies:
-- name: mongodb
-  repository: http://localhost:8879
-  version: 0.4.x
